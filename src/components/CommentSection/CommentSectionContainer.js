@@ -7,8 +7,9 @@ import "./Comment.css";
 const CommentSection = props => {
   // Add state for the comments
   const [comments, setComments] = useState(props.comments)
-  const submitComment = (e, newComment) => {
-    e.preventDefault();
+  
+  const submitComment = (newComment) => {
+    
     let comment = {
       username: 'newusername',
       text: newComment
