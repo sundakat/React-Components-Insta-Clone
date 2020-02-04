@@ -44,6 +44,31 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
+    },
+    {
+    username: "Frances Hampton",
+    thumbnailUrl: 'https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/11032860_1621655261402951_663663628_a.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=tr1iPYtFHVMAX8lqwZJ&oh=5a1f89a2c7655e054e4076b33c97389d&oe=5EB73040',
+        imageUrl: 'https://images.unsplash.com/photo-1548658166-136d9f6a7e76?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1300&q=80',
+    likes: 7000,
+    timestamp: "January 31st 2020, 03:12:09 pm",
+    comments: [
+        {
+            username: "LilBitMe",
+            text: "I want this puppy!"
+        },
+        {
+            username: "LizzaBeth",
+            text: "Omg So stinkin CUTE!!"
+        },
+        {
+            username: "tkopets",
+            text: "What an angel"
+        },
+        {
+            username: "letthem_go",
+            text: "That looks just like my new puppy!"
+        }
+    ]
     }
 ];
 
